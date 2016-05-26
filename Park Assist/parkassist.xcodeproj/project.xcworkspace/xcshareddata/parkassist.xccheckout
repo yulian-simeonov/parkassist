@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B222436E-FBB9-43C9-815C-5E94611B335F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>parkassist</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7ED67894-836F-4D25-8865-00F9A88F4773</key>
+		<string>https://ruhe.svn.beanstalkapp.com/parkassist</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Park Assist/parkassist.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7ED67894-836F-4D25-8865-00F9A88F4773</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>7ED67894-836F-4D25-8865-00F9A88F4773</key>
+		<string>https://ruhe.svn.beanstalkapp.com/parkassist</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://ruhe.svn.beanstalkapp.com/parkassist/Park%20Assist/parkassist.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7ED67894-836F-4D25-8865-00F9A88F4773</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7ED67894-836F-4D25-8865-00F9A88F4773</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Park Assist</string>
+		</dict>
+	</array>
+</dict>
+</plist>
